@@ -183,8 +183,3 @@ Insights:
 - Helps PM prioritize UX / support improvements  
 """)
 
-
-# =====================================================
-# DONE
-# =====================================================
-st.success("🎉 BI Dashboard Complete — All Assignment Requirements Satisfied!")
